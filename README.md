@@ -3,11 +3,6 @@
 A **production-grade cybersecurity + IoT prototype** for monitoring the structural integrity of bridges and buildings in real time.
 
 This system integrates **sensor simulation, secure communication, edge computing, anomaly detection, and intrusion detection** into a unified architecture designed for **cyber-physical infrastructure protection**.
-
----
-
-## 🚀 Overview
-
 Traditional structural monitoring relies on manual inspections, which are slow and reactive. This project implements a **real-time, secure, and automated SHM system** using:
 
 * IoT sensor simulation
@@ -233,6 +228,14 @@ This system implements a **multi-layered defense model**:
 Username: admin
 Password: shm@secure2024
 ```
+## 📸 System Screenshots
+<img width="836" height="789" alt="Screenshot 2026-05-03 232758" src="https://github.com/user-attachments/assets/93668ea2-bc42-4470-afdd-ced42e41ab65" />
+<img width="1897" height="943" alt="Screenshot 2026-05-03 232702" src="https://github.com/user-attachments/assets/af487356-1525-4a8c-b86d-0c3204ec6e5a" />
+<img width="1894" height="941" alt="Screenshot 2026-05-03 232718" src="https://github.com/user-attachments/assets/c037624c-f08a-409d-b137-78ba5a34ce36" />
+<img width="1894" height="944" alt="Screenshot 2026-05-03 232731" src="https://github.com/user-attachments/assets/44aabe9e-7909-4f31-8564-a5c5332495f5" />
+<img width="1907" height="754" alt="Screenshot 2026-05-03 232741" src="https://github.com/user-attachments/assets/cc3f2c39-0f91-4b65-9dff-fd2a44090ac5" />
+
+
 
 ---
 
@@ -255,33 +258,13 @@ Password: shm@secure2024
 
 ---
 
-## 📄 Research Basis
-
-This project is based on:
-
-**“Secure IoT-enabled Structural Health Monitoring (SHM) System for Bridges and Buildings”** 
-
 ---
 
 ## 👩‍💻 Author
 
 **Simran Malakar**
-Cybersecurity | IoT Security | VAPT
+Cybersecurity | VAPT
 
 ---
 
-## ⭐ Why This Project Stands Out
 
-This is not just an IoT project — it is a **cybersecurity-focused cyber-physical system**, combining:
-
-* Offensive thinking (attack simulation)
-* Defensive engineering (IDS, encryption)
-* Real-world infrastructure relevance
-
----
-
-If you want, I can next:
-
-* 🔥 Add **GitHub badges + screenshots section**
-* 🔥 Create **LinkedIn project post**
-* 🔥 Turn this into a **portfolio case study (interview ready)**
